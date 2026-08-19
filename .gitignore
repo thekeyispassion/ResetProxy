@@ -1,0 +1,11 @@
+# ResetProxyfinal/ 本地备份文件
+final/EnvBackup.reg
+final/hosts_backup.txt
+final/ProxyBackup.reg
+final/RootCertList.txt
+final/SysEnvBackup.reg
+
+# ResetProxy/jiaqiang 本地备份
+jiaqiang/hosts_backup.txt
+jiaqiang/ProxyBackup.reg
+jiaqiang/RootCertList.txt
